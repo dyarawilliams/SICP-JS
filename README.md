@@ -6,6 +6,7 @@ The Video Lectures used are from the CS61A Berkley's Course that took place in S
 
 - [Interactive Book](https://sourceacademy.org/sicpjs)
 - [PDF](https://sicp.sourceacademy.org/sicpjs.pdf)
+- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)
 
 
 ## Functional Programming 
