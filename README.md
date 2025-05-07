@@ -12,8 +12,8 @@ The Video Lectures used are from the CS61A Berkley's Course that took place in S
 ## Functional Programming 
 
 - [ ] Read Chapter 1 Section 1 [The Elements of Programming](https://sourceacademy.org/sicpjs/1.1)
-- [ ] Watch Lecture 1 [Computer Science 61A - Functional Programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
-- [ ] Watch Lecture 2 [Computer Science 61A - Functional Programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
+- [x] Watch Lecture 1 [Computer Science 61A - Functional Programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
+- [x] Watch Lecture 2 [Computer Science 61A - Functional Programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
 ## Higher-Order Functions
 
